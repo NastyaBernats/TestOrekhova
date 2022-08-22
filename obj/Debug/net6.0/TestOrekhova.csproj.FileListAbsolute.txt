@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Рабочий стол\TestOrekhova\bin\Debug\net6.0\TestOrekhova.exe
+C:\Users\User\OneDrive\Рабочий стол\TestOrekhova\bin\Debug\net6.0\TestOrekhova.deps.json
+C:\Users\User\OneDrive\Рабочий стол\TestOrekhova\bin\Debug\net6.0\TestOrekhova.runtimeconfig.json
+C:\Users\User\OneDrive\Рабочий стол\TestOrekhova\bin\Debug\net6.0\TestOrekhova.dll
+C:\Users\User\OneDrive\Рабочий стол\TestOrekhova\bin\Debug\net6.0\TestOrekhova.pdb
+C:\Users\User\OneDrive\Рабочий стол\TestOrekhova\obj\Debug\net6.0\TestOrekhova.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\TestOrekhova\obj\Debug\net6.0\TestOrekhova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Рабочий стол\TestOrekhova\obj\Debug\net6.0\TestOrekhova.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\TestOrekhova\obj\Debug\net6.0\TestOrekhova.AssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\TestOrekhova\obj\Debug\net6.0\TestOrekhova.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\TestOrekhova\obj\Debug\net6.0\TestOrekhova.dll
+C:\Users\User\OneDrive\Рабочий стол\TestOrekhova\obj\Debug\net6.0\refint\TestOrekhova.dll
+C:\Users\User\OneDrive\Рабочий стол\TestOrekhova\obj\Debug\net6.0\TestOrekhova.pdb
+C:\Users\User\OneDrive\Рабочий стол\TestOrekhova\obj\Debug\net6.0\TestOrekhova.genruntimeconfig.cache
+C:\Users\User\OneDrive\Рабочий стол\TestOrekhova\obj\Debug\net6.0\ref\TestOrekhova.dll
